@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ViewPager</string>
+    <string name="no_image">No Image</string>
+    <string name="tutorial_by">Tutorial By Tutorialwing.com</string>
+    <string name="first_fragment">First Fragment</string>
+    <string name="second_fragment">Second Fragment</string>
+    <string name="third_fragment">Third Fragment</string>
+    <string name="hello">hello</string>
+    <string name="result">Result</string>
+</resources>
